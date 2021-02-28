@@ -13,3 +13,6 @@ A memorial page for a famous deceased
 7. I should see an a element with a corresponding `id="tribute-link"`, which links to an outside site that contains additional information about the subject of the tribute page.
 8. The `img` element should responsively resize, relative to the width of its parent element, without exceeding its original size.
 9. The `img` element should be centered within its parent element.
+
+### Demo
+[Link Demo](https://codepen.io/hadinhtu97/full/jOrKRdq)
